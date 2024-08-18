@@ -1,0 +1,39 @@
+body{
+    background-color: gainsboro;
+    font-family: sans-serif;
+}
+.card{
+    margin: 10% auto ;
+    text-align: center;
+    padding: 1.5rem;
+    width: 20rem;
+    border-radius: 1rem;
+    background-color: white;
+}
+
+.icon{
+    height: 15rem;
+}
+.code {
+    margin-left: 2.5rem;
+    width: 14rem;
+}
+
+.inputcode {
+    width: 100%;
+    padding: 0.5rem;
+    border: 1px solid #6333ff;
+    border-radius: 0.5rem;
+    text-align: center;
+    font-size: 1rem;
+}
+
+.btn{
+    margin: 0.9rem;
+    padding: 0.5rem;
+    border: none;
+    border-radius: 0.5rem;
+    background-color: #6333ff;
+    width: 15rem;
+    color: white;
+}

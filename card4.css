@@ -1,0 +1,53 @@
+body {
+    background-color: gainsboro;
+    font-family: sans-serif;
+}
+
+.card {
+    margin: 5% auto;
+    text-align: center;
+    padding: 1.5rem;
+    width: 400px;
+    border-radius: 1rem;
+    background-color: white;
+}
+
+.container {
+    border: 1px solid #6333ff;
+    border-radius: 0.5rem;
+    margin: 1rem auto;
+    height: 1rem;
+    width: 300px;
+    align-items: center;
+    padding: 0.5rem;
+}
+
+.carddetails {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.form {
+    flex: 1;
+}
+
+input[type="text"] {
+    width: 100%;
+    border: none;
+    font-size: 0.7rem;
+}
+
+input::placeholder {
+    color: #999;
+}
+
+.btn {
+    background-color: #6333ff;
+    border: none;
+    padding: 0.5rem 3rem;
+    border-radius: 0.5rem; 
+    color: white;
+    width: 80%;
+}
+

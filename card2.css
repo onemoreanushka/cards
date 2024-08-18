@@ -1,0 +1,23 @@
+body{
+    background-color: gainsboro;
+    font-family: sans-serif;
+}
+.card{
+    margin: 10% auto ;
+    text-align: center;
+    padding: 1.5rem;
+    width: 20rem;
+    border-radius: 1rem;
+    background-color: white;
+}
+.button{
+    border: none;
+    background-color: white;
+    text-align: start;
+    width: 15rem;
+    height: 2.5rem;
+}
+.button:hover {
+    background-color: gainsboro;
+    border-radius: 0.5rem;
+}
